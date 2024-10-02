@@ -1,0 +1,5 @@
+Mencoba menu login:
+- Cek username dan password
+- Cek SQL
+- Cek Spasi
+- Cek Benar salahnya user atau password
